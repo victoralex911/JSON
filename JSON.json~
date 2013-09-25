@@ -71,14 +71,14 @@
                 "t4": "Title 4",
                 "w": {
                     "c1": {
-                        "first": "CAUTION DIALOG NAME",
+                        "first": "DANGER DIALOG NAME",
                         "last": "Bottom text",
                         "p1": "Line 1",
                         "p2": "Line 2",
                         "p3": "Line 3"
                     },
                     "c2": {
-                        "first": "CAUTION DIALOG NAME",
+                        "first": "DANGER DIALOG NAME",
                         "last": "Bottom text",
                         "p1": "Line 1",
                         "p2": "Line 2",
