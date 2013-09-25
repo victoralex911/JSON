@@ -37,7 +37,7 @@
                     "sq": "Wd,T",
                     "t1": "Text 1"
                 },
-                "type": "info",
+                "type": "steps",
                 "tag": "Submenu name 1",
                 "t1": "Title 1",
                 "t2": "Title 2",
@@ -45,14 +45,14 @@
                 "t4": "Title 4",
                 "w": {
                     "d1": {
-                        "first": "DANGER DIALOG NAME",
+                        "first": "DANGER 1 DIALOG NAME",
                         "last": "Bottom text",
                         "p1": "Line 1",
                         "p2": "Line 2",
                         "p3": "Line 3"
                     },
                     "d2": {
-                        "first": "DANGER DIALOG NAME",
+                        "first": "DANGER 2 DIALOG NAME",
                         "last": "Bottom text",
                         "p1": "Line 1",
                         "p2": "Line 2",
