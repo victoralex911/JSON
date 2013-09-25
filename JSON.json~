@@ -4,15 +4,30 @@
     "menu": {
         "e1": {
             "tag": "Menu name 1",
-            "v1": {
+            "v2": {
                 "l1": {
-                    "sq": "Wd,T",
-                    "t1": "Text 1"
+                    "sq": "Wd,T,St",
+                    "t1": "Text 1",
+		                        "st1": {
+                        "e1": "Element 1",
+                        "e2": "Element 2",
+                        "e3": "Element 3",
+                        "t1": "Spinner Text 1",
+                        "t2": "Spinner Text 2",
+                        "t3": "Spinner Text 3"
+                    }
                 },
                 "l2": {
-                    "sq": "T,T",
+                    "sq": "St,T",
                     "t1": "Text 1",
-                    "t2": "Text 2"
+		                        "st1": {
+                        "e1": "Element 1",
+                        "e2": "Element 2",
+                        "e3": "Element 3",
+                        "t1": "Spinner Text 1",
+                        "t2": "Spinner Text 2",
+                        "t3": "Spinner Text 3"
+                    }
                 },
                 "l3": {
                     "sq": "T",
@@ -22,7 +37,7 @@
                     "sq": "Wd,T",
                     "t1": "Text 1"
                 },
-                "type": "steps",
+                "type": "info",
                 "tag": "Submenu name 1",
                 "t1": "Title 1",
                 "t2": "Title 2",
@@ -47,13 +62,28 @@
             },
             "v2": {
                 "l1": {
-                    "sq": "Wc,T",
-                    "t1": "Text 1"
+                    "sq": "Wc,T,St",
+                    "t1": "Text 1",
+		                        "st1": {
+                        "e1": "Element 1",
+                        "e2": "Element 2",
+                        "e3": "Element 3",
+                        "t1": "Spinner Text 1",
+                        "t2": "Spinner Text 2",
+                        "t3": "Spinner Text 3"
+                    }
                 },
                 "l2": {
-                    "sq": "T,T",
+                    "sq": "St,T",
                     "t1": "Text 1",
-                    "t2": "Text 2"
+		                        "st1": {
+                        "e1": "Element 1",
+                        "e2": "Element 2",
+                        "e3": "Element 3",
+                        "t1": "Spinner Text 1",
+                        "t2": "Spinner Text 2",
+                        "t3": "Spinner Text 3"
+                    }
                 },
                 "l3": {
                     "sq": "T",
