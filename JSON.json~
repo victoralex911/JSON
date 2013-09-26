@@ -44,6 +44,15 @@
                 },
                 "l4": {
                     "sq": "Wd,T",
+                "w": {
+                    "d1": {
+                        "first": "DANGER 2 DIALOG NAME",
+                        "last": "Bottom text",
+                        "p1": "Line 1",
+                        "p2": "Line 2",
+                        "p3": "Line 3"
+                    }
+                },
                     "t1": "Text 1"
                 },
                 "type": "steps",
