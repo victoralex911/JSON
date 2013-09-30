@@ -6,7 +6,7 @@
             "tag": "Menu name 1",
             "v1": {
                 "l1": {
-                    "sq": "Wd,T,St",
+                    "sq": "Wd,T,Wc,St,Wc",
                     "t1": "Text 1",
                     "w": {
                         "d1": {
@@ -15,7 +15,21 @@
                             "p1": "Line 1",
                             "p2": "Line 2",
                             "p3": "Line 3"
-                        }
+                        },
+                        "c1": {
+                            "first": "CAUTION 1 DIALOG NAME",
+                            "last": "Bottom text",
+                            "p1": "Line 1",
+                            "p2": "Line 2",
+                            "p3": "Line 3"
+                        },
+                        "c2": {
+                            "first": "CAUTION 2 DIALOG NAME",
+                            "last": "Bottom text",
+                            "p1": "Line 1",
+                            "p2": "Line 2",
+                            "p3": "Line 3"
+                        },
                     },
                     "st1": {
                         "e1": "Element 1",
@@ -68,7 +82,7 @@
                     "t1": "Text 1",
                     "w": {
                         "c1": {
-                            "first": "CAUTION 1 DIALOG NAME",
+                            "first": "CAUTION 3 DIALOG NAME",
                             "last": "Bottom text",
                             "p1": "Line 1",
                             "p2": "Line 2",
